@@ -10,7 +10,7 @@
 4. [GIT cli](https://git-scm.com/downloads)
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
-
+edfrwfr
 Creating conda environment
 ```
 conda create -p venv python==3.7 -y
