@@ -21,7 +21,7 @@ conda activate venv/
 OR 
 ```
 conda activate venv
-```
+```git 
 
 ```
 pip install -r requirements.txt
